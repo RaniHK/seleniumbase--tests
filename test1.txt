@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 448D-E336
+
+ Directory of C:\Users\ranih\Desktop\My Project
+
+05-07-2022  10:21    <DIR>          .
+04-07-2022  18:17    <DIR>          ..
+05-07-2022  10:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  310,610,087,936 bytes free
